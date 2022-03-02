@@ -1,6 +1,7 @@
 # Relatórios Quinzenais do Estudo Dirigido de Paradigmas de Programação - Q1.2022
 
 **Nome:Natalia Leite Vares de Souza**
+
 **RA:11066316**
 
 Cada relatório deve ser escrito em formato markdown em um arquivo com o nome quinzenaXX.md nesse repositório. O relatório deve conter no máximo 600 palavras e seguir o cronograma conforme a tabela:
