@@ -1,4 +1,5 @@
-SEMANA 1
+**SEMANA 1**
+
 Paradigma de programação pode ser definido como a forma que a solução de um problema computacional é descrita. É possível listar pelo menos 6 tipos de paradigmas, sendo eles:
 - Imperativo: apresenta descrição, passo-a-passo, do que deve ser feito. Uma desvantagem é que mesmo chegando no resultado, pode ser difícil entender qual será esse resultado;
 - Estruturado: semelhante à estrutura do paradigma imperativo, porém com implementação de blocos, permitindo utilização de procedimentos e funções.
@@ -10,7 +11,9 @@ O paradigma funcional tem como características:
 - Funções puras, onde não são apresentados efeitos colaterais, assim a mesma entrada sempre resulta na mesma saída
 - Recursões, resultando em um código enxuto e declarativo
 - Avaliação preguiçosa, quando uma expressão é gerada temos uma promessa de execução, que será executada apenas se for necessário.
-SEMANA 2
+
+**SEMANA 2**
+
 Cálculo λ, inventado por Alonzo Church na década de 1930, pode ser definido como “a menor linguagem de programação do mundo”. A sintaxe do Cálculo λ é composta por 3 elementos: variáveis, definição de funções e aplicação de funções.
 Com o Cálculo λ e o Combinador Y é possível definir diversas funcionalidades, como: booleanos, registros (tuplas, structs, ...), números, funções e recursão.
 
